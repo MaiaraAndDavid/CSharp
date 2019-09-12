@@ -1,0 +1,14 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\SplashLoja\bin\Debug\SplashLoja.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\SplashLoja\bin\Debug\SplashLoja.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\SplashLoja\obj\x86\Debug\SplashLoja.Form1.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\SplashLoja\obj\x86\Debug\SplashLoja.Properties.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\SplashLoja\obj\x86\Debug\SplashLoja.csproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\SplashLoja\obj\x86\Debug\SplashLoja.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\SplashLoja\obj\x86\Debug\SplashLoja.pdb
+E:\Etec 2º Modulo (versão repetente)\Desenvolvimento de Sistemas\Aula 9\SplashLoja\SplashLoja\obj\x86\Debug\SplashLoja.exe
+E:\Etec 2º Modulo (versão repetente)\Desenvolvimento de Sistemas\Aula 9\SplashLoja\SplashLoja\obj\x86\Debug\SplashLoja.pdb
+E:\Etec 2º Modulo (versão repetente)\Desenvolvimento de Sistemas\Aula 9\SplashLoja\SplashLoja\obj\x86\Debug\SplashLoja.Form1.resources
+E:\Etec 2º Modulo (versão repetente)\Desenvolvimento de Sistemas\Aula 9\SplashLoja\SplashLoja\obj\x86\Debug\SplashLoja.Properties.Resources.resources
+E:\Etec 2º Modulo (versão repetente)\Desenvolvimento de Sistemas\Aula 9\SplashLoja\SplashLoja\obj\x86\Debug\SplashLoja.csproj.GenerateResource.Cache
+E:\Etec 2º Modulo (versão repetente)\Desenvolvimento de Sistemas\Aula 9\SplashLoja\SplashLoja\bin\Debug\SplashLoja.exe
+E:\Etec 2º Modulo (versão repetente)\Desenvolvimento de Sistemas\Aula 9\SplashLoja\SplashLoja\bin\Debug\SplashLoja.pdb
